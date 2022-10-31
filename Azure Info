@@ -1,0 +1,44 @@
+[
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "332db452-4030-4ac6-a47e-02701315da1e",
+    "id": "ae32dcfc-e964-4326-a445-6920160f0720",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "MSDN Platforms Subscription",
+    "state": "Enabled",
+    "tenantId": "332db452-4030-4ac6-a47e-02701315da1e",
+    "user": {
+      "name": "weissborn@gmail.com",
+      "type": "user"
+    }
+  },
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "332db452-4030-4ac6-a47e-02701315da1e",
+    "id": "53590f8d-ef13-4486-b272-ab4f8e7bc1d2",
+    "isDefault": false,
+    "managedByTenants": [],
+    "name": "Pay-As-You-Go",
+    "state": "Enabled",
+    "tenantId": "332db452-4030-4ac6-a47e-02701315da1e",
+    "user": {
+      "name": "weissborn@gmail.com",
+      "type": "user"
+    }
+  },
+  {
+    "cloudName": "AzureCloud",
+    "homeTenantId": "5c665f35-7f32-4cb3-bb10-98a0f1670235",
+    "id": "1291378e-7e09-41c8-a6fa-a0a9552f5baa",
+    "isDefault": false,
+    "managedByTenants": [],
+    "name": "Azure subscription 1",
+    "state": "Enabled",
+    "tenantId": "5c665f35-7f32-4cb3-bb10-98a0f1670235",
+    "user": {
+      "name": "weissborn@gmail.com",
+      "type": "user"
+    }
+  }
+]

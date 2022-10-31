@@ -1,0 +1,11 @@
+set AZURE_CLIENT_ID="1beeea89-bcc6-48b6-a810-847c4bf75f41"
+set AZURE_CLIENT_SECRET="0e26f378-0ac8-4d6f-af30-aa7f90f276e3"
+set AZURE_SUBSCRIPTION_ID="ff517ae5-efb7-4653-8c51-a542c5583c3d"
+set AZURE_TENANT_ID="bbaa2e85-de19-436c-b15b-e3e89d9fa42a"
+set AZURE_TENANT_ID="stonedoorgroup.com (stonedoorgroup.com)"
+set AZURE_AUTHORITY_HOST
+
+unset AZURE_CLIENT_ID="1beeea89-bcc6-48b6-a810-847c4bf75f41"
+unset AZURE_CLIENT_SECRET="0e26f378-0ac8-4d6f-af30-aa7f90f276e3"
+unset AZURE_SUBSCRIPTION_ID="ff517ae5-efb7-4653-8c51-a542c5583c3d"
+unset AZURE_TENANT_ID="bbaa2e85-de19-436c-b15b-e3e89d9fa42a"

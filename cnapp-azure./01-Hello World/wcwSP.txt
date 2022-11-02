@@ -1,0 +1,23 @@
+    "cloudName": "AzureCloud",
+    "homeTenantId": "332db452-4030-4ac6-a47e-02701315da1e",
+    "id": "ae32dcfc-e964-4326-a445-6920160f0720",
+    "isDefault": true,
+    "managedByTenants": [],
+    "name": "MSDN Platforms Subscription",
+    "state": "Enabled",
+    "tenantId": "332db452-4030-4ac6-a47e-02701315da1e",
+    "user": {
+      "name": "weissborn@gmail.com",
+      "type": "
+
+{
+  "appId": "cb242a59-fcba-454b-ad5a-980f573a6788",
+  "displayName": "azure-cli-2022-10-31-03-50-34",
+  "password": "zxV8Q~PvMOprGv8FUc6VmY12fvwfbgEaIPhVEbwW",
+  "tenant": "332db452-4030-4ac6-a47e-02701315da1e"
+}
+
+set AZURE_CLIENT_ID="cb242a59-fcba-454b-ad5a-980f573a6788"
+set AZURE_CLIENT_SECRET="zxV8Q~PvMOprGv8FUc6VmY12fvwfbgEaIPhVEbwW"
+set AZURE SUBSCRIPTION_ID="ae32dcfc-e964-4326-a445-6920160f0720"
+set AZURE_TENANT_ID="332db452-4030-4ac6-a47e-02701315da1e"

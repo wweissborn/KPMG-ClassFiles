@@ -106,6 +106,7 @@ resource "azurerm_linux_virtual_machine_scale_set" "tfexample" {
   disable_password_authentication = false
 
   source_image_reference {
+    
     publisher = "Canonical"
     offer     = "UbuntuServer"
     sku       = "18.04-LTS"
